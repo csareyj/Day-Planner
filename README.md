@@ -22,3 +22,6 @@ THEN the saved events persist
 
 ## Screenshot
 
+![Screenshot](./Assets/Screenshot.JPG)
+
+LINK TO DEPLOYED APPLICATION: [CLICK HERE](https://csareyj.github.io/Day-Planner/)
